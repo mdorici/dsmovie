@@ -1,4 +1,4 @@
-# :zap: #Semana Spring React - 9 a 15 de Maio
+# :zap: # Semana Spring React - 9 a 15 de Maio
 
 ## Esse projeto foi criado na Semana Spring React: 
 	
